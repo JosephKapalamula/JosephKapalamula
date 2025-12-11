@@ -88,17 +88,15 @@ Interactive dashboard analyzing real business datasets.
 
 --
 
-joka
--
 
 ## 📞 Contact Me
 📍 Malawi  
 📱 **0994 483147**  
 📧 **jkapalamula20@2gmail.com**  
-💼 LinkedIn: **linkedin.com/in/joseph-kapalamula-45b8bb245**  
+💼 ![LinkedIn] (linkedin.com/in/joseph-kapalamula-45b8bb245)  
 
 > I’m available for freelance projects, part-time/remote roles, and collaborations.
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!**
+⭐ **Thank you!**
