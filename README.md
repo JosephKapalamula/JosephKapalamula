@@ -91,7 +91,7 @@ Interactive dashboard analyzing real business datasets.
 
 ## 📞 Contact Me
 📍 Malawi  
-📱 **0994 483147**  
+📱 **+265994 483147**  
 📧 **jkapalamula20@2gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/joseph-kapalamula-45b8bb245)
 
