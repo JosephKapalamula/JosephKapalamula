@@ -86,15 +86,10 @@ Interactive dashboard analyzing real business datasets.
 - Machine Learning (Stanford University) — Coursera  
 - Full-Stack Web Development — freeCodeCamp  
 
----
+--
 
-## 📈 GitHub Stats
-
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephKapalamula&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephKapalamula&layout=compact&theme=tokyonight)
-
----
+joka
+-
 
 ## 📞 Contact Me
 📍 Malawi  
