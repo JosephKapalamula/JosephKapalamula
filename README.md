@@ -12,9 +12,9 @@ I am currently pursuing a **BSc in Data Science** at Mzuzu University, Malawi.
 
 I enjoy solving real-world problems using:
 - Backend Engineering (Node.js, Django, Flask)
-- Machine Learning (TensorFlow, scikit-learn)
+- Machine Learning & AI (Pytorch,TensorFlow, scikit-learn)
 - Data Analysis (Python, SQL, R)
-- Full-stack development (React, JavaScript)
+- Full-stack development (Next js, JavaScript)
 
 I am open to **freelance work, remote roles, internships, and collaborations**.
 
